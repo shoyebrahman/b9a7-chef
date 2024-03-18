@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "recipe_name": "Spicy Thai Basil Chicken",
+      "recipe_image": "https://i.ibb.co/pKVZZTk/Whats-App-Image-2024-03-17-at-06-56-53-d543c5a9.jpg",
+      "short_description": "A flavorful Thai dish with tender chicken and aromatic basil leaves.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
+      "preparing_time": "30 minutes",
+      "calories": "400 kcal"
+      
+    },
+    {
+      "id": "2",
+      "recipe_name": "Mediterranean Quinoa Salad",
+      "short_description": "A refreshing salad with quinoa, veggies, and a zesty dressing.",
+      "ingredients": ["200 g quinoa", "1 cucumber", "1 red bell pepper", "100 g feta cheese"],
+      "preparing_time": "25 minutes",
+      "calories": "350 kcal",
+      "recipe_image": "https://i.ibb.co/7k6FLXN/Whats-App-Image-2024-03-17-at-07-12-31-ba2523d8.jpg"
+    },
+    {
+      "id": "3",
+      "recipe_name": "Creamy Tomato Basil Pasta",
+      "short_description": "A creamy pasta dish with rich tomato sauce and fresh basil.",
+      "ingredients": ["300 g pasta", "500 ml tomato sauce", "100 ml heavy cream", "50 g fresh basil"],
+      "preparing_time": "35 minutes",
+      "calories": "450 kcal",
+      "recipe_image": "https://i.ibb.co/9YtB96p/Whats-App-Image-2024-03-17-at-07-19-57-4f10f49b.jpg"
+    },
+    {
+      "id": "4",
+      "recipe_name": "Honey Glazed Salmon",
+      "short_description": "Juicy salmon fillets coated with a sweet and tangy honey glaze.",
+      "ingredients": ["4 salmon fillets", "60 ml honey", "30 ml soy sauce", "1 lemon"],
+      "preparing_time": "20 minutes",
+      "calories": "300 kcal",
+      "recipe_image": "https://i.ibb.co/DLHFtcp/Whats-App-Image-2024-03-17-at-07-21-17-9f10ade9.jpg"
+    },
+    {
+      "id": "5",
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "A colorful and nutritious stir-fry with assorted vegetables and savory sauce.",
+      "ingredients": ["1 broccoli", "1 carrot", "1 red bell pepper", "150 g snap peas"],
+      "preparing_time": "20 minutes",
+      "calories": "250 kcal",
+      "recipe_image": "https://i.ibb.co/pjqmgMj/Whats-App-Image-2024-03-17-at-07-22-52-14b18073.jpg"
+    },
+    {
+      "id": "6",
+      "recipe_name": "Banana Walnut Pancakes",
+      "short_description": "Fluffy pancakes filled with ripe bananas and crunchy walnuts.",
+      "ingredients": ["200 g pancake mix", "2 ripe bananas", "50 g walnuts", "30 ml maple syrup"],
+      "preparing_time": "15 minutes",
+      "calories": "350 kcal",
+      "recipe_image": "https://i.ibb.co/rHwWbyy/Whats-App-Image-2024-03-17-at-07-24-17-242cdc03.jpg"
+    }
+  ]
+  
